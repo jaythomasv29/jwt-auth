@@ -27,4 +27,9 @@
 ### User Login
 1. Validate User Credentials from `/login` route
 2. Decrypt password and compare
+3. Provide User with JWT using `jwt.sign()`
+---
+### Protecting Rouets with Middleware
+1. Prevent unauthorized users from certain routes using middleware
+2. 
 
